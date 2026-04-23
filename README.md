@@ -2,58 +2,54 @@
 
 **AI Engineer | AI-to-Business Translator | Aspiring Cloud Solutions Architect**
 
-I build business-oriented AI solutions that help organizations make better decisions, optimize operations, and turn complex data into actionable outcomes.
+I build business-oriented AI solutions that help organizations improve decision-making, optimize operations, and turn complex data into actionable outcomes.
 
-My focus is on the point where **machine learning, data, APIs, and business operations meet**:
-- forecasting operational bottlenecks
-- improving planning and logistics
-- structuring data for decision-making
-- designing AI solutions that are understandable for both technical teams and business stakeholders
+My work sits at the intersection of **machine learning, data, APIs, and business operations** — transforming technical models into tools that stakeholders can actually use.
 
-## What I do
+## Focus
 
-I’m a final-year Artificial Intelligence Engineering student focused on **Enterprise AI, Solutions Engineering, and Cloud-Oriented Architecture**.
+I’m a final-year Artificial Intelligence Engineering student focused on:
 
-I enjoy taking complex technical models and turning them into:
-- decision-support tools
-- scalable business workflows
-- solution prototypes that feel closer to production than to the classroom
+- **Enterprise AI**
+- **Solutions Engineering**
+- **Cloud-oriented architecture**
+- **Business-facing analytics**
+- **Production-minded ML applications**
 
-My goal is to work at the intersection of **AI, cloud solutions, enterprise architecture, and customer/business impact**.
+## What you’ll find here
 
-## Current direction
+This GitHub is not a dump of academic exercises. It is a **portfolio of B2B-oriented technical solutions**.
 
-This GitHub is being built as a **portfolio of B2B-oriented technical solutions**, not as a repository of isolated academic exercises.
+My projects are built around:
 
-Here you’ll find projects focused on:
 - **predictive analytics for operations and planning**
-- **data-driven decision tools**
+- **decision-support tools for business environments**
 - **API-ready AI applications**
-- **production-minded project structures**
-- **synthetic / sanitized datasets for portfolio-safe demonstrations**
+- **clean, production-style project structures**
+- **synthetic / sanitized datasets for safe portfolio use**
 
-## Selected experience
+## Experience snapshot
 
-### AI Business Solution Consultant — Thales Alenia Space (via U4impact)
-Worked on an AI predictive solution to forecast project completion dates in a complex aerospace environment, translating technical data into operational insights to help prevent bottlenecks, reduce risk, and improve cost awareness.
+- **AI Business Solution Consultant — Thales Alenia Space (via U4impact)**  
+  Built an AI forecasting solution to support project planning, risk reduction, and operational visibility in a complex aerospace environment.
 
-### Data Science & Engineering Intern — ALTIA
-Worked with enterprise data architecture and data processing pipelines, connecting raw datasets with practical business intelligence and AI use cases.
+- **Data Science & Engineering Intern — ALTIA**  
+  Worked with enterprise data workflows and business-oriented data processing for analytics and AI use cases.
 
-### Strategic Planner & Tech Competitor — BYG Social Challenge
-Selected among top young talents in Spain to develop and pitch a go-to-market and impact strategy for a real-world social initiative, strengthening my business communication and cross-functional collaboration skills.
+- **Strategic Planner — BYG Social Challenge**  
+  Developed and pitched a go-to-market and impact strategy in a cross-functional, high-performance environment.
 
-### Head Futsal Coach — British Royal F.S.
-Leading teams under pressure, simplifying complex ideas, and aligning people around a shared strategy has become a key part of how I approach technology as well.
+- **Head Futsal Coach — British Royal F.S.**  
+  Leadership, communication, decision-making under pressure, and translating strategy into execution.
 
 ## What I bring
 
 - **Tech-to-business translation**
-- **Analytical thinking with operational focus**
-- **Business-oriented AI mindset**
-- **Team leadership and communication**
-- **Production-minded project design**
-- **Interest in cloud architecture and scalable solutions**
+- **Analytical problem-solving**
+- **Operational mindset**
+- **Team leadership**
+- **Clear communication**
+- **Interest in scalable cloud solutions**
 
 ## Tech stack
 
@@ -61,18 +57,19 @@ Leading teams under pressure, simplifying complex ideas, and aligning people aro
 Python · PyTorch · TensorFlow
 
 **Data / Integration**  
-APIs · JSON · XML · Data processing workflows
+APIs · JSON · XML · Data workflows
 
 **Engineering / Delivery**  
 Docker · Git · Agile · Scrum
 
-## What I’m building next
+## Building now
 
-I’m currently shaping a small set of robust portfolio repositories around:
+I’m currently developing a focused set of portfolio projects around:
+
 - operational forecasting
 - business-facing AI tools
 - API-first ML services
-- enterprise-style project architecture
+- enterprise-style solution design
 
 ## Portfolio note
 
@@ -80,6 +77,5 @@ All portfolio projects use **synthetic or sanitized datasets** and are designed 
 
 ## Let’s connect
 
-- LinkedIn: [linkedin.com/in/hugo-costoya-hm](https://linkedin.com/in/hugo-costoya-hm)
-- Email: hugocostoyah@gmail.com
-
+- [LinkedIn](https://linkedin.com/in/hugo-costoya-hm)
+- hugocostoyah@gmail.com
